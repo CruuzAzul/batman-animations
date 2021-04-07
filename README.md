@@ -1,4 +1,4 @@
-# :movie_camera: Batman Animation Application
+# :bat: Batman Animation Application
 
 This application was made to test the Flutter animations in mobile application. We can find 2 screens using parallax and transitions effects. You can find at the end of the document the sources used to make the screens.
 
@@ -11,7 +11,7 @@ This application was made to test the Flutter animations in mobile application. 
 flutter pub get
 ```
 
-- Now you can select your device and run the project. The project has been realized on **Chrome** and **IOS Simulator** devices.
+- Now you can select your device and run the project. The project has been realized on **IOS Simulator** device.
 
 
 ## :package: Sources :
@@ -21,5 +21,5 @@ flutter pub get
 ## :iphone: ​Mobile View
 
 <div>
-  <img align="center" src="" height="350"/>
+  <img align="center" src="https://user-images.githubusercontent.com/60877626/113858863-85ca7200-97a4-11eb-9824-a38115140d53.gif" height="400"/>
 </div>
